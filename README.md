@@ -1,7 +1,7 @@
 # VAPT - Infrastructural Penetration Testing on Public IPs
 
  **Project type:** Security Assessment Report    
- **Batch Number:** G10 CS 
+ **Batch Number:** G10 CS
  **Course Name:** CyberSecurity-and-Ethical-Hacking 
  **Mentor:** Nishchay Gaba
  **Organisation:** SURE-Trust
