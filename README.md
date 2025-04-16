@@ -1,14 +1,19 @@
 # VAPT - Infrastructural Penetration Testing on Public IPs
 
+> **Project type:** Security Assessment Report    
+> **Batch Number:** G10 CS 
+> **Course Name:** CyberSecurity-and-Ethical-Hacking
+> **Mentor:** Nishchay Gaba 
+> **Organisation:** SURE-Trust
+
 This repository contains the final documentation and details of the Vulnerability Assessment and Penetration Testing (VAPT) project conducted as part of my 6-month Cybersecurity & Ethical Hacking Internship under the mentorship of **Nishchay Gaba (OSCP Certified)**.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 **Title:** VAPT – Infrastructural Penetration Testing on Public IPs  
-**Duration:** January 2025 – February 2025  
-**Mentor:** Nishchay Gaba  
+**Duration:** January 2025 – February 2025   
 **Role:** VAPT Analyst (Intern)
 
 The objective of this project was to identify vulnerabilities across a range of externally exposed infrastructure components (public IPs) using standard VAPT methodologies and tools. The approach simulated how an attacker would discover, analyze, and potentially exploit vulnerable services.
@@ -49,7 +54,7 @@ The following tools and platforms were used extensively throughout the assessmen
 
 ---
 
-## 📊 Project Outcomes
+## Project Outcomes
 
 - **Vulnerabilities Identified:** Distinct vulnerabilities across the 31 IPs.
 - **Severity Breakdown:**
@@ -95,7 +100,7 @@ Some key challenges during the assessment process included:
 
 ---
 
-## 🙋 Acknowledgments
+## Acknowledgments
 
 Special thanks to:
 - **Nishchay Gaba** – for mentorship and expert guidance throughout the project.
@@ -103,13 +108,13 @@ Special thanks to:
 
 ---
 
-## 📌 Note
+## Note
 
 This was an individual project conducted as part of a cybersecurity internship. No custom tools or scripts were developed, but detailed personal notes and testing documentation were created for reference.
 
 ---
 
-## 📅 Timeline
+## Timeline
 
 - **Training Period:** Sept 2024 – Dec 2024  
 - **Real-Time Project:** Jan 2025 – Feb 2025  
