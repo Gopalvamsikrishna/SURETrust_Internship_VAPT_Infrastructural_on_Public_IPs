@@ -2,8 +2,8 @@
 
  **Project type:** Security Assessment Report    
  **Batch Number:** G10 CS 
- **Course Name:** CyberSecurity-and-Ethical-Hacking
- **Mentor:** Nishchay Gaba 
+ **Course Name:** CyberSecurity-and-Ethical-Hacking 
+ **Mentor:** Nishchay Gaba
  **Organisation:** SURE-Trust
 
 This repository contains the final documentation and details of the Vulnerability Assessment and Penetration Testing (VAPT) project conducted as part of my 6-month Cybersecurity & Ethical Hacking Internship under the mentorship of **Nishchay Gaba (OSCP Certified)**.
