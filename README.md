@@ -21,7 +21,7 @@ The objective of this project was to identify vulnerabilities across a range of 
 
 ---
 
-## 🎯 Scope of Work
+##  Scope of Work
 
 - **Target Assets:** 31 Public IPs
 - **Diversity:** Each IP represented a different infrastructure — servers, services, or domain-specific applications.
@@ -29,7 +29,7 @@ The objective of this project was to identify vulnerabilities across a range of 
 
 ---
 
-## 🔧 Tools & Technologies Used
+##  Tools & Technologies Used
 
 The following tools and platforms were used extensively throughout the assessment:
 
@@ -43,7 +43,7 @@ The following tools and platforms were used extensively throughout the assessmen
 
 ---
 
-## 🔄 Methodology Followed
+##  Methodology Followed
 
 1. **Reconnaissance:** Identifying live hosts and services via public IPs.
 2. **Scanning & Enumeration:** Using automated and manual tools to fingerprint services and gather version info.
@@ -77,7 +77,7 @@ Each finding was mapped to its corresponding CVSS score and included:
 
 ---
 
-## 📁 Report Details
+##  Report Details
 
 - **Format:** `.docx` (Microsoft Word)
 - **Contents:**
@@ -90,7 +90,7 @@ Each finding was mapped to its corresponding CVSS score and included:
 
 ---
 
-## ⚠️ Challenges Faced
+##  Challenges Faced
 
 Some key challenges during the assessment process included:
 
